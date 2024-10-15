@@ -6,7 +6,12 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/azraelthesynonym)](https://badges.pufler.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=azraelthesynonym&style=flat-square)
 
+> You can't connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
+>
+> &mdash; <cite>Steve Jobs</cite>
+
 ## Về bản thân mình
+- ENCORE ĐỈNH NÓC KỊCH TRẦN BAY PHẤP PHỚI !!!
 - 🎂 Lập trình viên mới bắt đầu, 17 tuổi, đam mê khám phá các công nghệ mới.
 - 🚀 Lắm mồm online, hướng nội ngoài đời
 - 🌱 Hiện đang rèn luyện kỹ năng trong bảo vệ an toàn an ninh mạng và tích lũy kinh nghiệm về phần cứng.
