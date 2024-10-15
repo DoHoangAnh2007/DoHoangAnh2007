@@ -15,7 +15,7 @@
 - 📷 Instagram: https://www.instagram.com/xclazrael_
 - 🎵 TikTok: https://www.tiktok.com/@xclazrael_
 - 🎮 Steam: https://steamcommunity.com/id/xclazrael_/
-- 📷 Locket: locket.cam/azrael2007
+- 📷 Locket: https://locket.cam/azrael2007
 ## Sở thích
 - 👨‍💻 **Lập trình:** Mình thích lập trình và phát triển các dự án mới liên quan đến game.
 - 🕹️ **Chơi game:** Game thủ đam mê với các trò chơi FPS và MOBA.
