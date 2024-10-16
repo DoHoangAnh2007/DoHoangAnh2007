@@ -39,8 +39,8 @@
 | ![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3) | ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker) |
 | ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java) | ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react) |
 | ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js) | ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql) | 
-| ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python) | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb) | 
-| ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql) |
+| ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python) |  
+| ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php) | 
 
 ## Khởi đầu của mình
 
