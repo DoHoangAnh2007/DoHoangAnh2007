@@ -21,9 +21,15 @@
 - 🎵 TikTok: https://www.tiktok.com/@xclazrael_
 - 🎮 Steam: https://steamcommunity.com/id/xclazrael_/
 - 📷 Locket: https://locket.cam/azrael2007
+
 ## Sở thích
 - 👨‍💻 **Lập trình:** Mình thích lập trình và phát triển các dự án mới liên quan đến game.
 - 🕹️ **Chơi game:** Game thủ đam mê với các trò chơi FPS và MOBA.
+
+## Tài khoản thi của mình:
+- VNOJ: https://oj.vnoi.info/user/kurtvn_dhoanganh
+- HNOJ: https://hnoj.edu.vn/user/kurtvn_dhoanganh
+- Codeforces: https://codeforces.com/profile/VN.Simonismeee
 
 ## Hãy liên hệ nếu bạn muốn hợp tác, thảo luận, hoặc chỉ đơn giản là trò chuyện. Mình luôn sẵn sàng đón nhận các cơ hội và kết bạn với những người mới!
 - 📧 [Email](mailto:dhoanganh2007@gmail.com)
