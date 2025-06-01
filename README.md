@@ -25,9 +25,3 @@ Currently, I am interested in Machine Learning. I also love tinkering with softw
 		 alt="My Gmail"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
 </a>
-
-<br><br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoHoangAnh2007&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff&icon_color=023047&show_icons=true">
-</p>
